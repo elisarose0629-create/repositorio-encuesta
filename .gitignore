@@ -1,0 +1,4 @@
+"# Archivos ignorados" 
+"*.log" 
+".DS_Store" 
+"Thumbs.db" 
